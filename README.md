@@ -1,4 +1,4 @@
-This was an assignment for DGA2017 - University of Malta
+This was an assignment for DGA2017 - MAKS Faculty_University of Malta
 
 Hardware Components used:
   Raspberry Pi,
